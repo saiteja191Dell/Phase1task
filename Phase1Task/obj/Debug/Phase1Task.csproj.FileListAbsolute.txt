@@ -1,0 +1,14 @@
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\bin\Debug\Phase1Task.exe.config
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\bin\Debug\Phase1Task.exe
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\bin\Debug\Phase1Task.pdb
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\obj\Debug\Phase1Task.csprojAssemblyReference.cache
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\obj\Debug\Phase1Task.csproj.CoreCompileInputs.cache
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\obj\Debug\Phase1Task.exe
+C:\Users\gajula_sai_teja\source\repos\Phase1Task\obj\Debug\Phase1Task.pdb
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\bin\Debug\Phase1Task.exe.config
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\bin\Debug\Phase1Task.exe
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\bin\Debug\Phase1Task.pdb
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\obj\Debug\Phase1Task.csprojAssemblyReference.cache
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\obj\Debug\Phase1Task.csproj.CoreCompileInputs.cache
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\obj\Debug\Phase1Task.exe
+C:\Users\gajula_sai_teja\Desktop\Phase1task\Phase1Task\obj\Debug\Phase1Task.pdb
